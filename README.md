@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ph3nac  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ph3nac&show_icons=true&theme=tokyonight" 
+  <img align="center" styel="width:100px;"src="https://github-readme-stats.vercel.app/api?username=ph3nac&show_icons=true&theme=tokyonight" 
        style=""/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph3nac&theme=tokyonight&layout=compact" />
 
